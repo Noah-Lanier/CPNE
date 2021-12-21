@@ -1,2 +1,2 @@
 # CPNE
-A central hub for all tools and guides used in The Collective for Psychiatric Neuroengineering
+Contains some projects currently being worked on in The Collective for Psychiatric Neuroengineering.
